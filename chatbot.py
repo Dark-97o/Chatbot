@@ -283,9 +283,8 @@ class CustomerServiceChatbot:
         self.unresolved_count = 0
 
 def main():
-    print("="*60)
     print("🤖 CUSTOMER SERVICE CHATBOT")
-    print("="*60)
+    print("================================")
     print("Hello! I'm your virtual assistant. I can help with:")
     print("• Order tracking and status")
     print("• Product information")
@@ -300,7 +299,6 @@ def main():
     while True:
         try:
             user_input = input("\n👤 You: ").strip()
-            
             if not user_input:
                 continue
                 
