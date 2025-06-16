@@ -292,7 +292,7 @@ def main():
     print("• Shipping information")
     print("• General customer service questions")
     print("\nType 'quit' or 'exit' to end the conversation.")
-    print("="*60)
+    print("================================\n")
     
     chatbot = CustomerServiceChatbot()
     
