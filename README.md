@@ -1,4 +1,4 @@
-Customer Service Chatbot
+*Customer Service Chatbot
 A Python-based customer service chatbot designed to handle common customer inquiries such as order tracking, refunds, shipping information, and product details. The chatbot uses natural language processing techniques to detect user intents, match FAQ responses, and escalate unresolved issues to human agents when necessary.
 Features
 
